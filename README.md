@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular with python**
 
-- 📝 I regularly write articles on [https://medium.com/@000alamnainsar](https://medium.com/@nainsaralam101/)
+- 📝 I regularly write articles on [https://medium.com/@nainsaralam101/](https://medium.com/@nainsaralam101/)
 
 - 📫 How to reach me **nainsaralam101@gmail.com**
 
